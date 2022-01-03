@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
+  <compound refid="classgr_1_1test3_1_1get__time" kind="class"><name>gr::test3::get_time</name>
+    <member refid="classgr_1_1test3_1_1get__time_1a6d77148711b95e69d92ebcda7032a817" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1test3_1_1get__time_1a6fbe594103a4c29fd46e9515eca5e3c7" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="classgr_1_1test3_1_1get__time__impl" kind="class"><name>gr::test3::get_time_impl</name>
+    <member refid="classgr_1_1test3_1_1get__time__impl_1ac9d3b01fa048f2ae57b3d8786423fa8e" kind="function"><name>get_time_impl</name></member>
+    <member refid="classgr_1_1test3_1_1get__time__impl_1a185b361696228f38e52cf32a874db885" kind="function"><name>~get_time_impl</name></member>
+    <member refid="classgr_1_1test3_1_1get__time__impl_1aa0884aa3ed954efffa26e5a975dd19fc" kind="function"><name>work</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1test3" kind="namespace"><name>gr::test3</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a752d8afa328d01ef61fc60e46694e344" kind="define"><name>TEST3_API</name></member>
+  </compound>
+  <compound refid="get__time_8h" kind="file"><name>get_time.h</name>
+  </compound>
+  <compound refid="get__time__impl_8h" kind="file"><name>get_time_impl.h</name>
+  </compound>
+  <compound refid="group__defs_8dox" kind="file"><name>group_defs.dox</name>
+  </compound>
+  <compound refid="main__page_8dox" kind="file"><name>main_page.dox</name>
+  </compound>
+  <compound refid="group__block" kind="group"><name>block</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+  <compound refid="dir_97aefd0d527b934f1d99a682da8fe6a9" kind="dir"><name>lib</name>
+  </compound>
+  <compound refid="dir_d53f274981033156e935cdc6ddec307b" kind="dir"><name>test3</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>

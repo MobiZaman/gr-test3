@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="classgr_1_1test3_1_1get__time" kind="class" language="C++" prot="public">
+    <compoundname>gr::test3::get_time</compoundname>
+    <basecompoundref prot="public" virt="virtual">sync_block</basecompoundref>
+    <includes refid="get__time_8h" local="no">get_time.h</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="classgr_1_1test3_1_1get__time_1a6d77148711b95e69d92ebcda7032a817" prot="public" static="no">
+        <type>boost::shared_ptr&lt; <ref refid="classgr_1_1test3_1_1get__time" kindref="compound">get_time</ref> &gt;</type>
+        <definition>typedef boost::shared_ptr&lt;get_time&gt; gr::test3::get_time::sptr</definition>
+        <argsstring></argsstring>
+        <name>sptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/get_time.h" line="38" column="1" bodyfile="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/get_time.h" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classgr_1_1test3_1_1get__time_1a6fbe594103a4c29fd46e9515eca5e3c7" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classgr_1_1test3_1_1get__time_1a6d77148711b95e69d92ebcda7032a817" kindref="member">sptr</ref></type>
+        <definition>static sptr gr::test3::get_time::make</definition>
+        <argsstring>(std::string arguments, int period)</argsstring>
+        <name>make</name>
+        <param>
+          <type>std::string</type>
+          <declname>arguments</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>period</declname>
+        </param>
+        <briefdescription>
+<para>Return a shared_ptr to a new instance of <ref refid="classgr_1_1test3_1_1get__time" kindref="compound">test3::get_time</ref>. </para>        </briefdescription>
+        <detaileddescription>
+<para>To avoid accidental use of raw pointers, <ref refid="classgr_1_1test3_1_1get__time" kindref="compound">test3::get_time</ref>&apos;s constructor is in a private implementation class. <ref refid="classgr_1_1test3_1_1get__time_1a6fbe594103a4c29fd46e9515eca5e3c7" kindref="member">test3::get_time::make</ref> is the public interface for creating new instances. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/get_time.h" line="48" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description of block+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>gr::sync_block</label>
+      </node>
+      <node id="0">
+        <label>gr::test3::get_time</label>
+        <link refid="classgr_1_1test3_1_1get__time"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>gr::sync_block</label>
+      </node>
+      <node id="2">
+        <label>gr::test3::get_time</label>
+        <link refid="classgr_1_1test3_1_1get__time"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/get_time.h" line="36" column="1" bodyfile="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/get_time.h" bodystart="35" bodyend="49"/>
+    <listofallmembers>
+      <member refid="classgr_1_1test3_1_1get__time_1a6fbe594103a4c29fd46e9515eca5e3c7" prot="public" virt="non-virtual"><scope>gr::test3::get_time</scope><name>make</name></member>
+      <member refid="classgr_1_1test3_1_1get__time_1a6d77148711b95e69d92ebcda7032a817" prot="public" virt="non-virtual"><scope>gr::test3::get_time</scope><name>sptr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

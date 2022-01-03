@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mubashira/prefix-3.8/mods/gr-test3/build/lib",
+  "command": "/usr/bin/c++ -DGR_CTRLPORT -Dgnuradio_test3_EXPORTS -I/home/mubashira/prefix-3.8/mods/gr-test3/lib/../include -isystem /home/sohaib/prefix-3.8/include -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-test3.dir/get_time_impl.cc.o -c /home/mubashira/prefix-3.8/mods/gr-test3/lib/get_time_impl.cc",
+  "file": "/home/mubashira/prefix-3.8/mods/gr-test3/lib/get_time_impl.cc"
+},
+{
+  "directory": "/home/mubashira/prefix-3.8/mods/gr-test3/build/swig",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/_test3_swig_doc_tag.dir/_test3_swig_doc_tag.cpp.o -c /home/mubashira/prefix-3.8/mods/gr-test3/build/swig/_test3_swig_doc_tag.cpp",
+  "file": "/home/mubashira/prefix-3.8/mods/gr-test3/build/swig/_test3_swig_doc_tag.cpp"
+},
+{
+  "directory": "/home/mubashira/prefix-3.8/mods/gr-test3/build/swig",
+  "command": "/usr/bin/c++ -DGR_CTRLPORT -Dtest3_swig_EXPORTS -I/home/mubashira/prefix-3.8/mods/gr-test3/build/swig -I/home/mubashira/prefix-3.8/mods/gr-test3/swig -I/home/sohaib/prefix-3.8/include/gnuradio/swig -I/home/mubashira/prefix-3.8/mods/gr-test3/lib/../include -isystem /usr/include/python3.6m -isystem /home/sohaib/prefix-3.8/include -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/test3_swig.dir/CMakeFiles/test3_swig.dir/test3_swigPYTHON_wrap.cxx.o -c /home/mubashira/prefix-3.8/mods/gr-test3/build/swig/CMakeFiles/test3_swig.dir/test3_swigPYTHON_wrap.cxx",
+  "file": "/home/mubashira/prefix-3.8/mods/gr-test3/build/swig/CMakeFiles/test3_swig.dir/test3_swigPYTHON_wrap.cxx"
+}
+]

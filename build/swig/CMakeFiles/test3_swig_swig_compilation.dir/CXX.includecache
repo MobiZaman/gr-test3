@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mubashira/prefix-3.8/mods/gr-test3/swig/test3_swig.i
+gnuradio.i
+/home/mubashira/prefix-3.8/mods/gr-test3/swig/gnuradio.i
+test3_swig_doc.i
+/home/mubashira/prefix-3.8/mods/gr-test3/swig/test3_swig_doc.i
+test3/get_time.h
+/home/mubashira/prefix-3.8/mods/gr-test3/swig/test3/get_time.h
+test3/get_time.h
+/home/mubashira/prefix-3.8/mods/gr-test3/swig/test3/get_time.h
+

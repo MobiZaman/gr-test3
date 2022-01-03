@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="namespacegr_1_1test3" kind="namespace" language="C++">
+    <compoundname>gr::test3</compoundname>
+    <innerclass refid="classgr_1_1test3_1_1get__time" prot="public">gr::test3::get_time</innerclass>
+    <innerclass refid="classgr_1_1test3_1_1get__time__impl" prot="public">gr::test3::get_time_impl</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/get_time.h" line="28" column="1"/>
+  </compounddef>
+</doxygen>

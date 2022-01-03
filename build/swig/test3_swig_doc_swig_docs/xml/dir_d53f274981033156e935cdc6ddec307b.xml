@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dir_d53f274981033156e935cdc6ddec307b" kind="dir">
+    <compoundname>test3</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="get__time_8h">get_time.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/mubashira/prefix-3.8/mods/gr-test3/include/test3/"/>
+  </compounddef>
+</doxygen>
